@@ -1,0 +1,47 @@
+body{
+    height: 1000vh;
+}
+
+.Gallery img{
+    position:absolute;
+    padding: 2rem;
+
+}
+
+.project{
+    width: 100%;
+    background-color:chartreuse;
+
+}
+
+
+.container{
+    width: 100%;
+    height: 4500px;
+    background-position: center;
+    background-size: cover;
+    color:blue;
+    font-weight: 5000;
+    font-size: larger;
+    text-align: center;
+    text-decoration: underline;
+    background-image: url(images/Powertrans2.png);
+    background-attachment: fixed;
+}
+
+.container1{
+    text-align: left;
+    height: 650px;
+}
+.container2{
+    text-align: left;
+    height: 650px;
+}
+.container3{
+    text-align: left;
+    height: 800px;
+}
+.container4{
+    text-align: left;
+    height: 5px;
+}
